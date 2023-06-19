@@ -1,6 +1,6 @@
 ## A Very Simple Cycle Merging Hamiltonian Path Generation Algorithm
 
-![50x50](50x50.png)
+![](50x50.png)
 
 Dependencies:
 
